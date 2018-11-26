@@ -104,3 +104,4 @@ class SensorX(Sensor):
 
     def get_all(self):
         pass
+

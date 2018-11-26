@@ -1,0 +1,186 @@
+2018-11-26 00:46:50,821 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:47:25,095 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:53:41,110 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:58:26,282 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:58:26,820 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 00:58:51,859 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:58:52,649 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 00:59:30,183 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:59:52,793 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 00:59:53,430 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:00:29,763 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:00:30,515 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:00:53,553 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:00:54,161 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:01:01,119 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:01:01,882 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:04:51,289 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:12:19,840 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:12:20,437 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:15:08,351 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:15:09,212 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:17:15,226 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:17:16,024 - 55 - except: list indices must be integers or slices, not str
+2018-11-26 01:17:18,132 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:17:18,133 - 96 - buffer: [Errno 2] No such file or directory: 'C:/Users/charl/OneDrive/Documents/School/2018 Fall/Python/11.15-Project2-master/2018FA-CSIS-250-3580-Project2-master/yelpsensor\\Yelp.buf'
+2018-11-26 01:17:25,171 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:40:04,452 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:49:58,622 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:49:59,473 - 49 - successfully requested new content
+2018-11-26 01:49:59,482 - 85 - content cached
+2018-11-26 01:56:49,872 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 01:56:50,750 - 49 - successfully requested new content
+2018-11-26 01:56:50,758 - 85 - content cached
+2018-11-26 02:02:00,978 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 02:02:01,774 - 49 - successfully requested new content
+2018-11-26 02:02:01,777 - 85 - content cached
+2018-11-26 02:44:58,347 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 02:44:59,257 - 46 - successfully requested new content
+2018-11-26 02:44:59,259 - 85 - content cached
+2018-11-26 02:51:00,556 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:02:26,330 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:03:47,360 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:06:10,424 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:08:58,088 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:08:58,883 - 44 - successfully requested new content
+2018-11-26 03:08:58,886 - 85 - content cached
+2018-11-26 03:09:04,860 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:09:21,821 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:09:22,452 - 44 - successfully requested new content
+2018-11-26 03:09:22,455 - 85 - content cached
+2018-11-26 03:09:26,868 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:16:19,645 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:16:20,267 - 44 - successfully requested new content
+2018-11-26 03:16:20,270 - 85 - content cached
+2018-11-26 03:26:05,607 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:26:06,679 - 44 - successfully requested new content
+2018-11-26 03:26:06,681 - 85 - content cached
+2018-11-26 03:48:09,657 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 03:48:10,473 - 44 - successfully requested new content
+2018-11-26 03:48:10,480 - 85 - content cached
+2018-11-26 03:55:45,042 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 04:01:31,489 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 04:01:32,307 - 45 - successfully requested new content
+2018-11-26 04:01:32,314 - 85 - content cached
+2018-11-26 04:05:53,557 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 04:05:54,229 - 45 - successfully requested new content
+2018-11-26 04:05:54,232 - 85 - content cached
+2018-11-26 04:07:42,476 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 04:07:43,306 - 45 - successfully requested new content
+2018-11-26 04:07:43,313 - 85 - content cached
+2018-11-26 05:25:08,168 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 05:25:09,252 - 45 - successfully requested new content
+2018-11-26 05:25:09,260 - 85 - content cached
+2018-11-26 07:29:00,354 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:29:01,301 - 43 - successfully requested new content
+2018-11-26 07:29:01,302 - 85 - content cached
+2018-11-26 07:36:03,750 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:36:04,686 - 43 - successfully requested new content
+2018-11-26 07:36:04,687 - 85 - content cached
+2018-11-26 07:37:18,319 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:37:19,083 - 43 - successfully requested new content
+2018-11-26 07:37:19,084 - 85 - content cached
+2018-11-26 07:43:20,956 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:43:22,064 - 43 - successfully requested new content
+2018-11-26 07:43:22,065 - 85 - content cached
+2018-11-26 07:50:43,321 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:50:44,182 - 49 - except: sequence item 0: expected str instance, builtin_function_or_method found
+2018-11-26 07:51:06,824 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:51:07,414 - 43 - successfully requested new content
+2018-11-26 07:51:07,415 - 85 - content cached
+2018-11-26 07:54:43,665 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:54:44,710 - 49 - except: list indices must be integers or slices, not list
+2018-11-26 07:55:45,066 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:55:45,908 - 49 - except: sequence item 0: expected str instance, list found
+2018-11-26 07:57:03,961 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 07:57:04,610 - 43 - successfully requested new content
+2018-11-26 07:57:04,612 - 85 - content cached
+2018-11-26 08:04:05,018 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 08:04:05,404 - 46 - response: 400 <Response [400]> {"error": {"code": "TOO_LARGE_VALIDATION_ERROR", "description": "Number too big: 51"}}
+2018-11-26 08:07:13,921 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 08:07:14,265 - 46 - response: 400 <Response [400]> {"error": {"code": "TOO_LARGE_VALIDATION_ERROR", "description": "Number too big: 51"}}
+2018-11-26 09:02:20,627 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:02:21,708 - 43 - successfully requested new content
+2018-11-26 09:02:21,709 - 85 - content cached
+2018-11-26 09:32:58,632 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:32:59,729 - 45 - successfully requested new content
+2018-11-26 09:32:59,730 - 85 - content cached
+2018-11-26 09:38:09,934 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:38:10,967 - 45 - successfully requested new content
+2018-11-26 09:38:10,968 - 85 - content cached
+2018-11-26 09:41:15,940 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:41:17,050 - 90 - Searched50restaurants for a result of6that match our criteria.
+2018-11-26 09:41:17,050 - 45 - successfully requested new content
+2018-11-26 09:41:17,051 - 85 - content cached
+2018-11-26 09:47:39,525 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:47:40,503 - 90 - Searched 50 restaurants for a result of 6 that match our criteria.
+2018-11-26 09:47:40,503 - 45 - successfully requested new content
+2018-11-26 09:47:40,504 - 85 - content cached
+2018-11-26 09:50:17,160 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 09:50:18,106 - 89 - Searched 50 restaurants for a result of 6 that match our criteria.
+2018-11-26 09:50:18,106 - 45 - successfully requested new content
+2018-11-26 09:50:18,107 - 85 - content cached
+2018-11-26 10:16:50,468 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:16:51,480 - 89 - Searched 50 restaurants for a result of 4 that match our criteria.
+2018-11-26 10:16:51,480 - 45 - successfully requested new content
+2018-11-26 10:16:51,481 - 85 - content cached
+2018-11-26 10:18:40,412 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:18:41,190 - 89 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:18:41,190 - 45 - successfully requested new content
+2018-11-26 10:18:41,191 - 85 - content cached
+2018-11-26 10:25:54,233 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:25:55,196 - 89 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:25:55,196 - 45 - successfully requested new content
+2018-11-26 10:25:55,197 - 85 - content cached
+2018-11-26 10:34:34,814 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:34:35,825 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:34:35,826 - 45 - successfully requested new content
+2018-11-26 10:34:35,827 - 85 - content cached
+2018-11-26 10:35:34,993 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:35:35,822 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:35:35,822 - 45 - successfully requested new content
+2018-11-26 10:35:35,824 - 85 - content cached
+2018-11-26 10:41:30,353 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:41:31,561 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:41:31,561 - 45 - successfully requested new content
+2018-11-26 10:41:31,563 - 85 - content cached
+2018-11-26 10:42:21,644 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:42:22,348 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:42:22,348 - 45 - successfully requested new content
+2018-11-26 10:42:22,349 - 85 - content cached
+2018-11-26 10:45:00,709 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:45:01,795 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:45:01,795 - 45 - successfully requested new content
+2018-11-26 10:45:01,796 - 85 - content cached
+2018-11-26 10:45:51,784 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:45:52,627 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:45:52,628 - 45 - successfully requested new content
+2018-11-26 10:45:52,629 - 85 - content cached
+2018-11-26 10:51:03,081 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:51:03,775 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:51:03,776 - 45 - successfully requested new content
+2018-11-26 10:51:03,777 - 85 - content cached
+2018-11-26 10:52:06,625 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:52:07,703 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:52:07,703 - 45 - successfully requested new content
+2018-11-26 10:52:07,704 - 85 - content cached
+2018-11-26 10:52:33,694 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:52:34,507 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:52:34,507 - 45 - successfully requested new content
+2018-11-26 10:52:34,508 - 85 - content cached
+2018-11-26 10:57:37,429 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:57:38,503 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:57:38,503 - 45 - successfully requested new content
+2018-11-26 10:57:38,504 - 85 - content cached
+2018-11-26 10:59:03,858 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 10:59:04,699 - 91 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 10:59:04,699 - 45 - successfully requested new content
+2018-11-26 10:59:04,700 - 85 - content cached
+2018-11-26 11:01:19,785 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 11:01:20,913 - 90 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 11:01:20,913 - 45 - successfully requested new content
+2018-11-26 11:01:20,914 - 85 - content cached
+2018-11-26 11:04:27,654 - 69 - Sensor just woke up .. ready to be called
+2018-11-26 11:04:28,610 - 89 - Searched 50 restaurants for a result of 9 that match our criteria.
+2018-11-26 11:04:28,610 - 45 - successfully requested new content
+2018-11-26 11:04:28,611 - 85 - content cached
